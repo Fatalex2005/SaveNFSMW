@@ -27,9 +27,9 @@ OutputNumber=0
 ShadowMapLevel=3
 Webcam=
 [Sound]
-MusicVolume=8
-SfxVolume=8
-SpeechVolume=8
+MusicVolume=10
+SfxVolume=4
+SpeechVolume=4
 SpeakerSetup=0
 Reverb=1
 [Gameplay]
